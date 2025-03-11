@@ -1,1 +1,1 @@
-# point_set_visibility
+# Point Set Visibility
